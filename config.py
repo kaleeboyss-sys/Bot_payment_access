@@ -1,0 +1,6 @@
+API_ID = ISI API ID KAMU
+API_HASH = "ISI API HASH KAMU"
+BOT_TOKEN = "ISI BOT TOKEN KAMU"
+ADMIN_ID = [ISI ADMIN KAMU]
+TRAKTEER_URL= "https://trakteer.id/namakamu"
+DB_FILE = "database.json"
